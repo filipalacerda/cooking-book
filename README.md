@@ -9,3 +9,4 @@ Some are in English, others in Portuguese
 - [Cheese](./cheese/README.md)
 - [Cookies](./cookies/README.md)
 - [Bread](./bread/README.md)
+- [Main dishes](./main-dishes/README.md)
