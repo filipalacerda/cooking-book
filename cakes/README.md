@@ -5,3 +5,4 @@
 1. [Bolo de Abóbora](./bolo-abobora.md)
 1. [Banana bread](./banana-bread.md)
 1. [Chocolate e courgete](./chocolate-courgete.md)
+1. [Bolo amendoa](./bolo-amendoa.md)
